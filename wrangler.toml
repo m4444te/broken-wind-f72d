@@ -1,0 +1,4 @@
+name = "broken-wind-f72d"
+main = "src/worker.js"
+compatibility_date = "2024-07-11"
+workers_dev = true
